@@ -167,19 +167,68 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/shiv-kumar-4bb586361/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@Shiv%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="35"
+      width="45"
+    />
   </a>
-
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/shivthakur_0007/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@shivthakur__0007-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="35"
+      width="45"
+    />
   </a>
-
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.youtube.com/@shiv_raghav-07" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@shiv__raghav--07-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      alt="YouTube"
+      height="35"
+      width="45"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/ShivThakur_07/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      alt="LeetCode"
+      height="35"
+      width="45"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/shivk8y3zd" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+      alt="GeeksforGeeks"
+      height="35"
+      width="45"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/shiv-kumar-4bb586361/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/shivthakur_0007/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/@shiv_raghav-07" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
 </p>
@@ -187,18 +236,14 @@
 <p align="center">
 
   <a href="https://leetcode.com/u/ShivThakur_07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ShivThakur__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  &nbsp;
-
   <a href="https://www.geeksforgeeks.org/profile/shivk8y3zd" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-shivk8y3zd-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
 </p>
-
-<br>
 
 <p align="center">
   💻 <b>Code</b>
@@ -206,7 +251,9 @@
   🚀 <b>Build</b>
   &nbsp; • &nbsp;
   ✨ <b>Learn</b>
-</p>---
+</p>
+
+
 
 ## 📫 Contact
 
