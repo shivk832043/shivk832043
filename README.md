@@ -1,11 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
-
-<h3 align="center">
-Full-Stack Web Developer | Intern @ Lenovo LEAP NextGen | Java • DSA | MERN Stack | AI-Powered Web Apps
-</h3>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivk832043&label=Profile%20Views&color=0e75b6&style=flat" alt="shivk832043" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=230&section=header&text=Shiv%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Web%20Developer%20%7C%20Software%20Engineer%20%7C%20AI-Powered%20Web%20Apps&descSize=20&descAlignY=65" width="100%"/>
+</p>
+
+<h2 align="center">
+  <font color="#00BFFF">Passionate Problem Solver</font>
+</h2>
+
+<p align="center">
+  📍 <b>Meerut, India</b>
+  &nbsp; | &nbsp;
+  🎓 <b>B.Tech CSE</b>
+  &nbsp; | &nbsp;
+  💼 <b>Open to Software Engineering Opportunities</b>
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/shivk832043">
+    <img src="https://img.shields.io/badge/PORTFOLIO-GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shiv-kumar-4bb586361/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Shiv%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/ShivThakur_07/">
+    <img src="https://img.shields.io/badge/LEETCODE-ShivThakur__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="mailto:shivk832043@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-shivk832043%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
